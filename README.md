@@ -21,18 +21,18 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone https://github.com/htr-tech/host.git`
+* `git clone https://github.com/kouakou669/MD-HACKER-HOST.git`
 * `cd host`
 
 #### > Run : `bash host.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone https://github.com/htr-tech/host.git ; cd host ; bash host.sh
+apt update ; apt install git -y ; git clone https://github.com/kouakou669/MD-HACKER-HOST.git   ; cd host ; bash host.sh
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/host.png"/>
+<img src="https://raw.githubusercontent.com/kouakou669/release-download/master/images/host.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
